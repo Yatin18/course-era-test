@@ -1,2 +1,2 @@
-# course-era-test
-Coursera test repository
+# Project
+Virtual Assisstant using Python
